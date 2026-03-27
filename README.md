@@ -15,3 +15,7 @@ The HR Analytics Dashboard is designed to analyze and visualize employee data, e
 
 # Objective:
 🎯 To assist HR professionals in identifying workforce trends, reducing employee attrition, and improving overall organizational efficiency through actionable insights.
+# project report's
+https://github.com/alokv007/HR-Analytics-dashboard/blob/main/Screenshot%202026-03-27%20193815.png
+
+https://github.com/alokv007/HR-Analytics-dashboard/blob/main/Screenshot%202026-03-27%20193815.png
