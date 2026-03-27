@@ -12,5 +12,5 @@ The HR Analytics Dashboard is designed to analyze and visualize employee data, e
 🛠️ Microsoft Excel
 🛠️ Data Cleaning & Transformation Techniques
 
-🔹 Objective:
+# Objective:
 🎯 To assist HR professionals in identifying workforce trends, reducing employee attrition, and improving overall organizational efficiency through actionable insights.
