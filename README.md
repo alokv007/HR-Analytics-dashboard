@@ -1,7 +1,6 @@
 # HR-Analytics-dashboard
-The HR Analytics Dashboard is designed to analyze and visualize employee data, enabling organizations to make informed and data-driven decisions. This project provides a comprehensive overview of key human resource metrics, helping identify patterns related to employee performance, satisfaction, and attrition. 
-
 The HR Analytics Dashboard is designed to analyze and visualize employee data, enabling organizations to make informed and data-driven decisions. This project provides a comprehensive overview of key human resource metrics, helping identify patterns related to employee performance, satisfaction, and attrition.
+
 🔹 Key Features:
 📌 Employee Attrition Analysis
 📌 Department-wise and Role-wise Insights
@@ -12,5 +11,6 @@ The HR Analytics Dashboard is designed to analyze and visualize employee data, e
 🛠️ Power BI / Tableau
 🛠️ Microsoft Excel
 🛠️ Data Cleaning & Transformation Techniques
+
 🔹 Objective:
 🎯 To assist HR professionals in identifying workforce trends, reducing employee attrition, and improving overall organizational efficiency through actionable insights.
